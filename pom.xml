@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>restful-webservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>restful-webservice</name>
 	<description>Demo project for Spring Boot - Building RESTful web service</description>
 
